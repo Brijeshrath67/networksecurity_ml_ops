@@ -9,6 +9,7 @@ print(MONGO_DB_URL)
 
 import certifi
 ca = certifi.where()
+
 import pandas as pd
 import numpy as np
 import pymongo
